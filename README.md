@@ -1,2 +1,2 @@
 # EylashProject
-Eylash Network Project.
+Eylash Network Project - Lobby (HUB) server.
